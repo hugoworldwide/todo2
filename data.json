@@ -1,0 +1,7 @@
+[
+	{ "todo": "Have breakfast", "status": true },
+	{ "todo": "Have lunch", "status": false },
+	{ "todo": "Go camping", "status": true },
+	{ "todo": "have dinner", "status": false },
+	{ "todo": "hello", "status": false }
+]
